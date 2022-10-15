@@ -1,2 +1,2 @@
-# grad778-f22-w08-bestsupe
-Grad 778 - Module 8 - Best Superhero Repo
+Which superhero is the best? Please add your proposed superhero to the "candidates" subfolder as "[superheroname].txt" The file should contain a one sentence description of why you think that superhero is the best!
+
